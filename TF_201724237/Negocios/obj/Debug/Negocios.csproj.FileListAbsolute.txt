@@ -1,0 +1,22 @@
+C:\Users\victo\source\repos\Negocios\bin\Debug\Negocios.dll
+C:\Users\victo\source\repos\Negocios\bin\Debug\Negocios.pdb
+C:\Users\victo\source\repos\Negocios\bin\Debug\AccesoDatos.dll
+C:\Users\victo\source\repos\Negocios\bin\Debug\Entidades.dll
+C:\Users\victo\source\repos\Negocios\bin\Debug\AccesoDatos.pdb
+C:\Users\victo\source\repos\Negocios\bin\Debug\Entidades.pdb
+C:\Users\victo\source\repos\Negocios\obj\Debug\Negocios.csprojAssemblyReference.cache
+C:\Users\victo\source\repos\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+C:\Users\victo\source\repos\Negocios\obj\Debug\Negocios.dll
+C:\Users\victo\source\repos\Negocios\obj\Debug\Negocios.pdb
+C:\Users\VICTOR\Downloads\SI393_SI33-Plantilla (1)\SI393_SI33-Capas\Negocios\bin\Debug\Negocios.dll
+C:\Users\VICTOR\Downloads\SI393_SI33-Plantilla (1)\SI393_SI33-Capas\Negocios\bin\Debug\Negocios.pdb
+C:\Users\VICTOR\Downloads\SI393_SI33-Plantilla (1)\SI393_SI33-Capas\Negocios\bin\Debug\AccesoDatos.dll
+C:\Users\VICTOR\Downloads\SI393_SI33-Plantilla (1)\SI393_SI33-Capas\Negocios\bin\Debug\Entidades.dll
+C:\Users\VICTOR\Downloads\SI393_SI33-Plantilla (1)\SI393_SI33-Capas\Negocios\bin\Debug\AccesoDatos.pdb
+C:\Users\VICTOR\Downloads\SI393_SI33-Plantilla (1)\SI393_SI33-Capas\Negocios\bin\Debug\Entidades.pdb
+C:\Users\VICTOR\Downloads\SI393_SI33-Plantilla (1)\SI393_SI33-Capas\Negocios\obj\Debug\Negocios.csprojAssemblyReference.cache
+C:\Users\VICTOR\Downloads\SI393_SI33-Plantilla (1)\SI393_SI33-Capas\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\VICTOR\Downloads\SI393_SI33-Plantilla (1)\SI393_SI33-Capas\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+C:\Users\VICTOR\Downloads\SI393_SI33-Plantilla (1)\SI393_SI33-Capas\Negocios\obj\Debug\Negocios.dll
+C:\Users\VICTOR\Downloads\SI393_SI33-Plantilla (1)\SI393_SI33-Capas\Negocios\obj\Debug\Negocios.pdb

@@ -1,0 +1,36 @@
+C:\Users\victo\source\repos\SI33-Plantilla\bin\Debug\SI33-Plantilla.exe.config
+C:\Users\victo\source\repos\SI33-Plantilla\bin\Debug\SI33-Plantilla.exe
+C:\Users\victo\source\repos\SI33-Plantilla\bin\Debug\SI33-Plantilla.pdb
+C:\Users\victo\source\repos\SI33-Plantilla\bin\Debug\Entidades.dll
+C:\Users\victo\source\repos\SI33-Plantilla\bin\Debug\Negocios.dll
+C:\Users\victo\source\repos\SI33-Plantilla\bin\Debug\Entidades.pdb
+C:\Users\victo\source\repos\SI33-Plantilla\bin\Debug\Negocios.pdb
+C:\Users\victo\source\repos\SI33-Plantilla\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\victo\source\repos\SI33-Plantilla\obj\Debug\SI33_Plantilla.Properties.Resources.resources
+C:\Users\victo\source\repos\SI33-Plantilla\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\victo\source\repos\SI33-Plantilla\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\SI33-Plantilla\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\victo\source\repos\SI33-Plantilla\obj\Debug\SI33-Plantilla.exe
+C:\Users\victo\source\repos\SI33-Plantilla\obj\Debug\SI33-Plantilla.pdb
+C:\Users\VICTOR\Downloads\SI393_SI33-Plantilla (1)\SI393_SI33-Capas\Presentacion\bin\Debug\SI33-Plantilla.exe.config
+C:\Users\VICTOR\Downloads\SI393_SI33-Plantilla (1)\SI393_SI33-Capas\Presentacion\bin\Debug\SI33-Plantilla.exe
+C:\Users\VICTOR\Downloads\SI393_SI33-Plantilla (1)\SI393_SI33-Capas\Presentacion\bin\Debug\SI33-Plantilla.pdb
+C:\Users\VICTOR\Downloads\SI393_SI33-Plantilla (1)\SI393_SI33-Capas\Presentacion\bin\Debug\Entidades.dll
+C:\Users\VICTOR\Downloads\SI393_SI33-Plantilla (1)\SI393_SI33-Capas\Presentacion\bin\Debug\Negocios.dll
+C:\Users\VICTOR\Downloads\SI393_SI33-Plantilla (1)\SI393_SI33-Capas\Presentacion\bin\Debug\AccesoDatos.dll
+C:\Users\VICTOR\Downloads\SI393_SI33-Plantilla (1)\SI393_SI33-Capas\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\VICTOR\Downloads\SI393_SI33-Plantilla (1)\SI393_SI33-Capas\Presentacion\bin\Debug\Negocios.pdb
+C:\Users\VICTOR\Downloads\SI393_SI33-Plantilla (1)\SI393_SI33-Capas\Presentacion\bin\Debug\AccesoDatos.pdb
+C:\Users\VICTOR\Downloads\SI393_SI33-Plantilla (1)\SI393_SI33-Capas\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\VICTOR\Downloads\SI393_SI33-Plantilla (1)\SI393_SI33-Capas\Presentacion\obj\Debug\SI33_Plantilla.Properties.Resources.resources
+C:\Users\VICTOR\Downloads\SI393_SI33-Plantilla (1)\SI393_SI33-Capas\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\VICTOR\Downloads\SI393_SI33-Plantilla (1)\SI393_SI33-Capas\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\VICTOR\Downloads\SI393_SI33-Plantilla (1)\SI393_SI33-Capas\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\VICTOR\Downloads\SI393_SI33-Plantilla (1)\SI393_SI33-Capas\Presentacion\obj\Debug\SI33-Plantilla.exe
+C:\Users\VICTOR\Downloads\SI393_SI33-Plantilla (1)\SI393_SI33-Capas\Presentacion\obj\Debug\SI33-Plantilla.pdb
+C:\Users\VICTOR\Downloads\SI393_SI33-Plantilla (1)\SI393_SI33-Capas\Presentacion\obj\Debug\SI33_Plantilla.Login.resources
+C:\Users\VICTOR\Downloads\SI393_SI33-Plantilla (1)\SI393_SI33-Capas\Presentacion\obj\Debug\SI33_Plantilla.MenuPrincipal.resources
+C:\Users\VICTOR\Downloads\SI393_SI33-Plantilla (1)\SI393_SI33-Capas\Presentacion\obj\Debug\SI33_Plantilla.frmCliente.resources
+C:\Users\VICTOR\Downloads\SI393_SI33-Plantilla (1)\SI393_SI33-Capas\Presentacion\obj\Debug\SI33_Plantilla.frmEmpresa.resources
+C:\Users\VICTOR\Downloads\SI393_SI33-Plantilla (1)\SI393_SI33-Capas\Presentacion\obj\Debug\SI33_Plantilla.frmProveedor.resources
+C:\Users\VICTOR\Downloads\SI393_SI33-Plantilla (1)\SI393_SI33-Capas\Presentacion\obj\Debug\SI33_Plantilla.frmVenta.resources

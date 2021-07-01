@@ -1,0 +1,12 @@
+C:\Users\victo\source\repos\Entidades\bin\Debug\Entidades.dll
+C:\Users\victo\source\repos\Entidades\bin\Debug\Entidades.pdb
+C:\Users\victo\source\repos\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\victo\source\repos\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\Entidades\obj\Debug\Entidades.dll
+C:\Users\victo\source\repos\Entidades\obj\Debug\Entidades.pdb
+C:\Users\VICTOR\Downloads\SI393_SI33-Plantilla (1)\SI393_SI33-Capas\Entidades\bin\Debug\Entidades.dll
+C:\Users\VICTOR\Downloads\SI393_SI33-Plantilla (1)\SI393_SI33-Capas\Entidades\bin\Debug\Entidades.pdb
+C:\Users\VICTOR\Downloads\SI393_SI33-Plantilla (1)\SI393_SI33-Capas\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\VICTOR\Downloads\SI393_SI33-Plantilla (1)\SI393_SI33-Capas\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\VICTOR\Downloads\SI393_SI33-Plantilla (1)\SI393_SI33-Capas\Entidades\obj\Debug\Entidades.dll
+C:\Users\VICTOR\Downloads\SI393_SI33-Plantilla (1)\SI393_SI33-Capas\Entidades\obj\Debug\Entidades.pdb
